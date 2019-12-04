@@ -1,3 +1,22 @@
+## [1.2.7](https://github.com/ant-ife/create-h5-app/compare/v1.2.6...v1.2.7) (2019-12-04)
+
+
+### Features
+
+* estlint vue components order ([a65b926](https://github.com/ant-ife/create-h5-app/commit/a65b926db41d4d1558894d386c9c8b3e185836b9))
+
+
+
+## [1.2.6](https://github.com/ant-ife/create-h5-app/compare/v1.2.4...v1.2.6) (2019-08-06)
+
+
+### Features
+
+* Add weekly digest ([12575ac](https://github.com/ant-ife/create-h5-app/commit/12575ac))
+* update template ([#22](https://github.com/ant-ife/create-h5-app/issues/22)) ([0a98234](https://github.com/ant-ife/create-h5-app/commit/0a98234))
+
+
+
 ## [1.2.5](https://github.com/ant-ife/create-h5-app/compare/v1.2.4...v1.2.5) (2019-03-22)
 
 
